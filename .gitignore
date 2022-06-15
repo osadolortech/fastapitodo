@@ -1,0 +1,5 @@
+venv/
+Scripts
+Lib
+.env
+__pycache__
